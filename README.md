@@ -55,5 +55,3 @@ The dataset includes T20 World Cup match data, player statistics, and team recor
 - `images/`: Folder with snapshots of dashboards.
 - `README.md`: Project documentation.
 
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
